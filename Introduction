@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main() {
+    // Your code here
+    printf("My Name is Nelson Kong, and my favorite coding languages are C, c# and C++");
+    return 0;
+}
